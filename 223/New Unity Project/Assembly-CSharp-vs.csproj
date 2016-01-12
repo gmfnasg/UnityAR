@@ -107,6 +107,7 @@
      <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
      <Compile Include="Assets\my\debug.cs" />
      <Compile Include="Assets\my\npc.cs" />
+     <Compile Include="Assets\my\setCamera.cs" />
      <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
      <None Include="Assets\link.xml" />
@@ -117,11 +118,12 @@
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
-     <None Include="Assets\StreamingAssets\QCAR\testTarget.xml" />
      <None Include="Assets\Cardboard\Legacy\Resources\GUIScreen.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\testTarget2.xml" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest 1.xml" />
+     <None Include="Assets\StreamingAssets\QCAR\testTarget.xml" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Cardboard\Resources\RadialUndistortionEffect.shader" />

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="card" size="100.000000 54.204544" />
     <ImageTarget name="ColorR2" size="100.000000 41.269840" />
     <ImageTarget name="ColorY" size="100.000000 83.569405" />
     <ImageTarget name="ColorR" size="100.000000 80.939224" />

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using Vuforia;
 
 public class debug : MonoBehaviour {
 
@@ -9,7 +10,7 @@ public class debug : MonoBehaviour {
     
 	// Use this for initialization
 	void Start () {
-	
+        CameraDevice.Instance.SetFocusMode(CameraDevice.FocusMode.FOCUS_MODE_MACRO);
 	}
 	
 	// Update is called once per frame
